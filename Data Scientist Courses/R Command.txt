@@ -1,0 +1,207 @@
+Course 1: The Data Scientist’s Toolbox --> Passed
+--------------------------------------------------
+
+(1) Command Line Argument -->
+
+clear
+ls
+pwd
+ls - a --> hidden and unhidden files
+cd
+cd ..
+mkdir  (to create a directory)
+touch test_file (to create a file within  a directory)
+cp test_file.xls test_file_copy.xls
+mkdir more_docs
+cp -r test_file.xls more_docs
+rm --> to delete directory
+rm -r--> remove all files (be careful while u do this as there io do)
+mv old_file new_file
+echo --> like a print 
+date ---> print date
+
+(2) Git HUB:
+developed by Linux
+Download : https://git-scm.com/
+
+configuring git "
+
+1.  git config --global user.name "Sandip Singha"
+2.  git config --global user.email "singha.sandip@gmail.com"
+3.  git config --list
+4.  exit
+
+core.symlinks=false
+core.autocrlf=true
+core.fscache=true
+color.diff=auto
+color.status=auto
+color.branch=auto
+color.interactive=true
+help.format=html
+diff.astextplain.textconv=astextplain
+rebase.autosquash=true
+filter.lfs.clean=git-lfs clean -- %f
+filter.lfs.smudge=git-lfs smudge -- %f
+filter.lfs.required=true
+http.sslcainfo=C:/Program Files/Git/mingw64/ssl/certs/ca-bundle.crt
+http.sslbackend=openssl
+diff.astextplain.textconv=astextplain
+filter.lfs.clean=git-lfs clean -- %f
+filter.lfs.smudge=git-lfs smudge -- %f
+filter.lfs.required=true
+filter.lfs.process=git-lfs filter-process
+credential.helper=manager
+user.name=Sandip Singha
+user.email=singha.sandip@gmail.com
+
+
+getwd() is for getting the working directory of the computer.
+ "C:/Users/IBM_ADMIN/Documents"
+
+dir() --> o get all the listed files in a directory
+
+setting up directory :  File --> change Dir
+
+read.csv("mydata.csv")
+
+ myfunction() --> to see my function
+
+ ls() --> to 
+
+.R is the extension for R
+
+source("mycode.R")
+
+
+
+(4) Own Git HUb	
+
+Public github:
+https://github.com/
+
+user name =Sandsingha
+mail id =singha.sandip@gmail.com
+password =Rana@6876
+Repository Name : Repo_Data_Science_SS
+
+git clone  https://github.com/sandipsingha/Repo_Data_Science_SS.git
+
+Creating branch from command line:
+git checkout -b branchname
+git branch
+git checkout master
+
+
+
+
+
+
+(3) Download R Software :
+
+Download R Software : https://cran.r-project.org/
+
+
+(4) installing R tools
+https://cran.r-project.org/bin/windows/Rtools/
+
+(5) Installing R Studio:
+https://www.rstudio.com/
+
+In the R studio 
+type
+
+find.package("devtools")
+
+if it says its not there
+
+install.packages("devtools")
+
+and you should see the below messages
+
+package ‘mime’ successfully unpacked and MD5 sums checked
+package ‘curl’ successfully unpacked and MD5 sums checked
+package ‘openssl’ successfully unpacked and MD5 sums checked
+package ‘R6’ successfully unpacked and MD5 sums checked
+package ‘memoise’ successfully unpacked and MD5 sums checked
+package ‘whisker’ successfully unpacked and MD5 sums checked
+package ‘digest’ successfully unpacked and MD5 sums checked
+package ‘rstudioapi’ successfully unpacked and MD5 sums checked
+package ‘jsonlite’ successfully unpacked and MD5 sums checked
+package ‘git2r’ successfully unpacked and MD5 sums checked
+package ‘withr’ successfully unpacked and MD5 sums checked
+package ‘devtools’ successfully unpacked and MD5 sums checked
+
+
+(6)
+Descriptive Analysis
+Exploratory Analysis
+Inferential Analysis
+Predictive Analysis
+Causal Analysis
+Mechanistic Analysis
+
+Data Sharing : https://github.com/jtleek/datasharing
+
+
+7.My Assignment Name:
+Data Sciece Assignment_SS
+
+Course 2:R Programming --> Just started
+
+Roger D. Peng is an Associate Professor of Biostatistics at the Johns Hopkins Bloomberg School of Public Health and a Co-Editor of the Simply Statistics blog. 
+He conducts research in the areas of air pollution, climate change, and health risk assessment and statistical methods for spatial and temporal data. He created the course Statistical Programming at Johns Hopkins where it has been taught for the past 8 years. He is also a national leader in the area of methods and standards for reproducible research and is the Reproducible Research editor for the journal Biostatistics. 
+
+Course Description
+------------------
+
+In this course you will learn how to program in R and how to use R for effective data analysis. You will learn how to install and configure software necessary for a statistical programming environment, discuss generic programming language concepts as they are implemented in a high-level statistical language. The course covers practical issues in statistical computing which includes programming in R, reading data into R, accessing R packages, writing R functions, debugging, and organizing and commenting R code. Topics in statistical data analysis and optimization will provide working examples.
+
+    Week 1: Overview of R, R data types and objects, reading and writing data
+    Week 2: Control structures, functions, scoping rules, dates and times
+    Week 3: Loop functions, debugging tools
+    Week 4: Simulation, code profiling
+
+Grading Policy
+
+You must score at least 80% on all required assignments (Quizzes & Programming Assignments) to pass the course. Your final grade will be calculated as follows:
+
+    Week 1 Quiz - 20%
+    Week 2 Quiz - 10%
+    Week 3 Quiz - 5%
+    Week 4 Quiz - 10%
+    Programming Assignment 1 (Air Pollution) - 20%
+    Programming Assignment 2 (Lexical Scoping) - 10%
+    Programming Assignment 3 (Hospital Quality) - 25%
+    swirl Programming Assignment (practice) - 0% 
+
+
+1991; created in new zealand Ross Ihaka And Robert gentleman
+syntax is very similar to S
+
+CRAN--> Comprehensive R Archive network
+
+
+r-help@r-project.org
+##--> for commenting
+
+character
+numeric (real number)
+integer
+complex
+logical (true/false)
+
+L --> if u want an integer then specify the same with 1L etc
+inf --> Infinity, 1/0--> inf , 1/inf --> 0
+NaN--> undefined value (not a number)
+
+
+Course 3: Getting and Cleaning Data --> Not started
+Course 4:Exploratory Data Analysis--> Not started
+Course 5: Reproducible Research--> Not started
+Course 6:Statistical Inference--> Not started
+Course 7: Regression Models--> Not started
+Course 8:Practical Machine Learning--> Not started
+Course 9: Developing Data Products--> Not started
+Course 10:Data Science Capstone--> Not started
+

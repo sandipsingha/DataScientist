@@ -1,0 +1,86 @@
+
+
+This badge earner has a solid understanding of data science methodologies, and tools.  The individual also has a hands-on appreciation of programming languages to use in data science tasks.
+
+Data Science Foundations - Level 2
+
+
+Skills
+
+    Data Science Data Scientist Workbench Dswb Python R R Programming Scala Statistics 
+
+
+
+
+(1) Successful completion of the course "Data Science 101". -----------> Completed.
+
+(2) Successful completion of the course  "Data Science Methodology".-----------> Completed.
+
+https://courses.cognitiveclass.ai/courses/course-v1:BigDataUniversity+DS0103EN+2016_T2/courseware/89227024130b43f684d95376901b65c8/
+goals and objectives
+
+ Data Science Methodology Cognitive Class DS0103EN 
+
+https://courses.cognitiveclass.ai/courses/course-v1:BigDataUniversity+DS0103EN+2016_T2/courseware/bd64ccdf56ad4ea1afe870e26d583038/
+
+
+(3) Successful completion of the course "Data Science Hands-on with Open Source Tools".-----------> Completed.
+
+
+https://courses.cognitiveclass.ai/courses/course-v1%3ABigDataUniversity%2BDS0105EN%2B2016/
+
+https://datascientistworkbench.com/
+
+
+(4) Successful completion of the course "R101".
+
+
+Obtain,understand, prepare abd model the data
+
+R101: https://courses.cognitiveclass.ai/courses/course-v1:BigDataUniversity+RP0101EN+2016/info
+
+
+Try IBM Data Science Experience powered by Bluemix
+https://idaas.iam.ibm.com/idaas/mtfim/sps/authsvc?PolicyId=urn:ibm:security:authentication:asf:basicldapuser
+
+
+https://my.datascientistworkbench.com/
+
+
+
+Email : sandipsi@in.ibm.com
+Name : Sandip Singha
+User id: Sandsing
+psw: bedu@6876
+
+managing data--> My Data
+Prepare Data --> Open Refine
+Build Analytics -->Jupiter/Ipython
+
+
+
+https://git.sami.int.thomsonreuters.com/EBS-Business-Intelligence/EBS-TRTA_CONNECT-P2/tree/P2.2_UAT/P2.2_Tip_Sheet
+
+
+
+
+Cleared the exam "Data Science Hands-On with Open Source Tools" from Big Data University (DS0105EN Certificate). Certificate link.
+
+https://courses.cognitiveclass.ai/certificates/user/730345/course/course-v1:BigDataUniversity+DS0105EN+2016
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Course Era : https://www.coursera.org/learn/machine-learning/home/welcome
